@@ -1,0 +1,30 @@
+
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  flex-direction: row;
+}
+
+.social-icons a {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center; 
+  margin-right: 20px;
+  color: #333;
+  font-size: 20px;
+  transition: color 0.2s;
+}
+
+.social-icons a:hover {
+  color: #4267B2;
+}
+
+footer p {
+  font-size: 14px;
+  color: #999;
+  text-align: center;
+}
+
